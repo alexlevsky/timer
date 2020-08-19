@@ -1,0 +1,38 @@
+.butoons {
+}
+button {
+    width: 90px;
+    height: 35px;
+    color: black;
+    position: relative;
+    left: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 32px;
+    margin-left: 10px;
+}
+button:hover {
+    color: black;
+    border: 2px black solid;
+}
+.timer {
+    color: black;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    line-height: 52px;
+    margin:auto;
+    width: 60%;
+}
+.main {
+    position: relative;
+    top: 300px;
+    margin: auto;
+    width: 500px;
+}
